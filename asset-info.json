@@ -1,0 +1,84 @@
+{
+  "name": "GPT龙娘",
+  "description": "白发紫眸的小龙娘，带着龙角、翅膀和卷尾。",
+  "spritesheet": "assets/spritesheet.png",
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "columns": 8,
+  "rows": 11,
+  "cell_width": 192,
+  "cell_height": 208,
+  "standard_states": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6
+    }
+  ],
+  "look_directions": {
+    "rows": [
+      9,
+      10
+    ],
+    "frames": 16,
+    "step_degrees": 22.5,
+    "zero": "up",
+    "rotation": "clockwise in screen coordinates"
+  },
+  "sha256": "22bc585c5fb47bb4acc8fe8f41918d2f0a56fb331bc71cfd36879a5f0d8a23a2",
+  "license": "CC-BY-NC-SA-4.0",
+  "attribution": {
+    "reference_creator": "ZipZipPipe (Bilibili)",
+    "asset_production": "GPT-dragon-pet-assets contributors",
+    "generation_tool": "gpt-image",
+    "upstream_license_basis": "Author declaration reported by the publisher; original publication URL not provided",
+    "modifications": [
+      "image generation",
+      "animation production",
+      "transparent background processing",
+      "atlas assembly",
+      "preview creation"
+    ]
+  }
+}
