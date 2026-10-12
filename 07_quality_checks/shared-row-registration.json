@@ -1,0 +1,65 @@
+[
+  {
+    "state": "failed",
+    "shared_scale": 0.9025641025641026,
+    "ground_baseline": 203,
+    "reference_height": 195,
+    "target_height": 176
+  },
+  {
+    "state": "idle",
+    "shared_scale": 0.8979591836734694,
+    "ground_baseline": 203,
+    "reference_height": 196,
+    "target_height": 176
+  },
+  {
+    "state": "jumping",
+    "shared_scale": 1.0232558139534884,
+    "ground_baseline": 203,
+    "reference_height": 172,
+    "target_height": 176
+  },
+  {
+    "state": "review",
+    "shared_scale": 0.8979591836734694,
+    "ground_baseline": 203,
+    "reference_height": 196,
+    "target_height": 176
+  },
+  {
+    "state": "running",
+    "shared_scale": 0.8979591836734694,
+    "ground_baseline": 203,
+    "reference_height": 196,
+    "target_height": 176
+  },
+  {
+    "state": "running-left",
+    "shared_scale": 0.9025641025641026,
+    "ground_baseline": 203,
+    "reference_height": 195,
+    "target_height": 176
+  },
+  {
+    "state": "running-right",
+    "shared_scale": 0.9072164948453608,
+    "ground_baseline": 203,
+    "reference_height": 194,
+    "target_height": 176
+  },
+  {
+    "state": "waiting",
+    "shared_scale": 0.8979591836734694,
+    "ground_baseline": 203,
+    "reference_height": 196,
+    "target_height": 176
+  },
+  {
+    "state": "waving",
+    "shared_scale": 0.8979591836734694,
+    "ground_baseline": 203,
+    "reference_height": 196,
+    "target_height": 176
+  }
+]

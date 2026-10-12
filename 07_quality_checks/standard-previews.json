@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "output_dir": "qa/standard-previews",
+  "previews": [
+    {
+      "state": "idle",
+      "path": "07_quality_checks/standard-previews/idle.gif",
+      "frames": 6
+    },
+    {
+      "state": "running-right",
+      "path": "07_quality_checks/standard-previews/running-right.gif",
+      "frames": 8
+    },
+    {
+      "state": "running-left",
+      "path": "07_quality_checks/standard-previews/running-left.gif",
+      "frames": 8
+    },
+    {
+      "state": "waving",
+      "path": "07_quality_checks/standard-previews/waving.gif",
+      "frames": 4
+    },
+    {
+      "state": "jumping",
+      "path": "07_quality_checks/standard-previews/jumping.gif",
+      "frames": 5
+    },
+    {
+      "state": "failed",
+      "path": "07_quality_checks/standard-previews/failed.gif",
+      "frames": 8
+    },
+    {
+      "state": "waiting",
+      "path": "07_quality_checks/standard-previews/waiting.gif",
+      "frames": 6
+    },
+    {
+      "state": "running",
+      "path": "07_quality_checks/standard-previews/running.gif",
+      "frames": 6
+    },
+    {
+      "state": "review",
+      "path": "07_quality_checks/standard-previews/review.gif",
+      "frames": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "reviews": [
+    {
+      "direction": "000",
+      "verdict": "pass",
+      "evidence": "Frontal face pitched up, chin lifts and violet eye surfaces aim above, lower face visible."
+    },
+    {
+      "direction": "090",
+      "verdict": "pass",
+      "evidence": "Nose tip and face center move screen-right; eye gaze follows toward right with torso frontal."
+    },
+    {
+      "direction": "180",
+      "verdict": "pass",
+      "evidence": "Chin lowered and eyelids narrowed, irises low beneath upper lids; frontal torso planted."
+    },
+    {
+      "direction": "270",
+      "verdict": "pass",
+      "evidence": "Face and nose tip shift screen-left, eyes aim left, original single hair ornament stays screen-right."
+    }
+  ]
+}

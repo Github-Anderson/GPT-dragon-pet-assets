@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "blocking_issues": [],
+  "inspection_method": "Viewed standard contact sheet and nine per-state montages at 192x208 frame size; decoded the 17-frame idle-jump-idle GIF into temporal-order montage. Reviewed source gait previously. No assertion of live browser playback.",
+  "identity_and_style": {
+    "verdict": "pass",
+    "evidence": "Across frontal rows: white hair, paired pale horns, purple eyes, lavender dress, wing pair, curled viewer-right tail, knot ornament at viewer-right temple and waist emblems remain. Directional rows show matching profile construction. Running-left exposed temple is clean with far-side ornament edge; rightward has visible ornament. Lines and palette consistent. Fine details are denser than typical simple sticker pets but remain readable."
+  },
+  "scale_and_registration": {
+    "verdict": "pass",
+    "evidence": "Grounded frontal rows have alpha bottoms around y205-206 and full heights around 177-181 px. Directional wide/support/passing phases around 177-181 px and airborne phases 167-174 px due bent legs, with heads at y23-25. No single-frame independent size expansion seen. Jump wings/hair spread wider than idle, reflecting pose; it is not an exact silhouette-width match."
+  },
+  "rows": {
+    "idle": {
+      "verdict": "pass",
+      "evidence": "Six frames keep feet stable, eyes open in 0-1, close in 2-3, reopen in 4-5; small hand/hair changes. Motion is restrained, mainly blink."
+    },
+    "running-right": {
+      "verdict": "pass",
+      "evidence": "All eight face right. Wide stance 0/4, single support 1/5, narrow passing 2/6, bent airborne 3/7. Forward nose remains right and tail follows left. Frame order creates leg motion rather than static clone; half-cycle poses have limited arm alternation but overall gait is visibly changing."
+    },
+    "running-left": {
+      "verdict": "pass",
+      "evidence": "All eight face left. Wide stride 0/4, support 1/5, passing 2/6, airborne 3/7. Tail streams right. Ornament asymmetry retained through far-side occlusion. Feet clear throughout."
+    },
+    "waving": {
+      "verdict": "pass",
+      "evidence": "Viewer-left hand moves from shoulder height at 0 to face height 1-2 with palm open, returns at 3. Other hand stays at chest; friendly open mouth. Wave amplitude is compact."
+    },
+    "jumping": {
+      "verdict": "pass",
+      "evidence": "Five frames progress grounded 0, rise 1, closed-eye smiling apex 2, descend 3, grounded 4. Alpha bottom moves 205 -> 200 -> 184 -> 200 -> 205, an actual 21 px rise. Head top y23 -> 11 -> 3 -> 12 -> 23; no clipping at apex."
+    },
+    "failed": {
+      "verdict": "pass",
+      "evidence": "Head bows from 0 through 3 with eyes closed at 2-4; returns upright/open by 6-7. Feet remain planted. Sad subdued expression distinct from idle."
+    },
+    "waiting": {
+      "verdict": "pass",
+      "evidence": "Hands held open near chest, tilted head around 2, closed-eye smile 3, return 4-5. Stable lower body and wings; restrained patient loop."
+    },
+    "running": {
+      "verdict": "pass",
+      "evidence": "Active-work semantics: planted feet, one finger near lips/chin, alternating small head tilts and blink at 2. No literal running. Motion is subtle."
+    },
+    "review": {
+      "verdict": "pass",
+      "evidence": "Planted feet, hand under chin with opposite arm supported across torso, downward/side glance and blink at 4. Deliberate inspection pose distinct from waiting; very small loop motion."
+    }
+  },
+  "idle_jump_idle_transition": {
+    "verdict": "pass",
+    "evidence": "Decoded GIF contains six idle frames, five jump frames and six idle frames. Grounded jump endpoints alpha bottom205 are within 1 px of idle206. Apex reaches184 then returns. Hands and wings visibly change posture on transition and jump silhouette is wider; no missing limb, clipping, baseline teleport or large height mismatch visible."
+  },
+  "nonblocking_notes": [
+    "Before final despill, faint magenta edge contamination remains on some transparent frame boundaries; final cleanup gate should address it.",
+    "Idle, waiting, active-work and review are deliberately small motions; they meet semantic differentiation but are less animated than directional gait and jump.",
+    "Jump extends wings/hair wider than grounded idle; check final user motion preview at intended size for subjective smoothness."
+  ]
+}

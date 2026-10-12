@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "output_dir": "/workspace/scratch/562d3dc39f75/pet-run/previews",
+  "previews": [
+    {
+      "state": "idle",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/idle.gif",
+      "frames": 6
+    },
+    {
+      "state": "running-right",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/running-right.gif",
+      "frames": 8
+    },
+    {
+      "state": "running-left",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/running-left.gif",
+      "frames": 8
+    },
+    {
+      "state": "waving",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/waving.gif",
+      "frames": 4
+    },
+    {
+      "state": "jumping",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/jumping.gif",
+      "frames": 5
+    },
+    {
+      "state": "failed",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/failed.gif",
+      "frames": 8
+    },
+    {
+      "state": "waiting",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/waiting.gif",
+      "frames": 6
+    },
+    {
+      "state": "running",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/running.gif",
+      "frames": 6
+    },
+    {
+      "state": "review",
+      "path": "/workspace/scratch/562d3dc39f75/pet-run/previews/review.gif",
+      "frames": 6
+    }
+  ]
+}
+Rendered final previews from encoded atlas

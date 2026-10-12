@@ -1,0 +1,102 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's nose and exposed cheek point left; B's nose and cheek point right, with the far-side eye narrower in each.",
+      "visual_pair_label": "P01"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's nose lies left of the face center and the left eye is foreshortened; B shows the corresponding rightward nose and smaller right eye.",
+      "visual_pair_label": "P02"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has a leftward face projection and narrower left eye; B has a rightward face projection and narrower right eye.",
+      "visual_pair_label": "P03"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's nose projects toward the right edge of the face with the left ear exposed; B's nose points left with the right ear exposed.",
+      "visual_pair_label": "P04"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's lowered face still projects left with a smaller far-left eye; B's face projects right with a smaller far-right eye.",
+      "visual_pair_label": "P05"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's nose and chin shift left of the hair center; B's nose and chin shift right, with asymmetric eye widths supporting each turn.",
+      "visual_pair_label": "P06"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's bowed face has a rightward nose and narrower right eye; B's bowed face has a leftward nose and narrower left eye.",
+      "visual_pair_label": "P07"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A raises the chin and exposes a broad lower face beneath upward-looking open eyes; B bows the head, hides the eyes under lids/bangs, and tucks the chin near the hands.",
+      "visual_pair_label": "P08"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A has a lifted chin and open eyes aimed above the face center; B's chin is tucked and the heavily lowered lids obscure the upper eyes.",
+      "visual_pair_label": "P09"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's chin is lifted with the mouth below a broad exposed cheek area; B tips the forehead forward and places the compressed lower face closer to the hands.",
+      "visual_pair_label": "P10"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eyes are fully open and the chin is slightly raised; B's upper lids descend, the face is vertically compressed, and the chin tips toward the hands. This is a subtle tilt.",
+      "visual_pair_label": "P11"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A shows an elevated chin and broad exposed lower cheek area beneath upward eyes; B shows a bowed head with lowered lids and chin near the hands.",
+      "visual_pair_label": "P12"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A's forehead/bangs dominate a compressed face with lowered lids and tucked chin; B lifts the chin and opens the eyes toward the upper part of the face.",
+      "visual_pair_label": "P13"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's chin tips down and lids are lowered; B's chin is lifted with open eyes and a longer visible lower face.",
+      "visual_pair_label": "P14"
+    }
+  ]
+}
